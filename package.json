@@ -1,0 +1,19 @@
+{
+  "author": "Felix Geisendörfer <felix@debuggable.com> (http://debuggable.com/)",
+  "name": "librato-metrics",
+  "description": "A node module for sending data to librato metrics.",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/holidayextras/node-librato-metrics.git"
+  },
+  "main": "./index",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "request": "2.9.100"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
