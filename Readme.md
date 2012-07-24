@@ -2,7 +2,7 @@
 
 A node module for sending data to [librato metrics][].
 
-[librato metrics]: metrics.librato.com
+[librato metrics]: http://dev.librato.com/v1/metrics
 
 ## Install
 
