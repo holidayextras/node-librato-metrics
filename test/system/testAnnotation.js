@@ -1,5 +1,5 @@
 var assert = require('assert');
-var client = require('..').createClient({
+var client = require('../../').createClient({
   email: process.env.LIBRATO_METRICS_EMAIL,
   token: process.env.LIBRATO_METRICS_TOKEN,
 });
