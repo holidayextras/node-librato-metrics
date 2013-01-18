@@ -30,6 +30,11 @@ client.post('/metrics', {
   console.log(response);
 });
 ```
+##Test
+
+```sh
+  make test
+```
 
 ## License
 
